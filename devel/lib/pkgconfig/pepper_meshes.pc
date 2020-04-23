@@ -1,0 +1,8 @@
+prefix=/home/thanh/catkin_ws/src/pepper_meshes-master/devel
+
+Name: pepper_meshes
+Description: Description of pepper_meshes
+Version: 0.2.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

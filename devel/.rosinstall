@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/thanh/catkin_ws/src/pepper_meshes-master/devel/setup.sh
